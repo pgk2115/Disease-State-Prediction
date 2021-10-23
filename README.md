@@ -77,3 +77,5 @@ be weighted by the TFIDF vectorizer may contain
 valuable information for the model. Then the training set
 was vectorized. Various models were tested, but ultimately 
 neural networks outperformed all other baseline models.
+
+Additionally, an RShiny app was built to hold predictions and visualize data <https://pgk2115.shinyapps.io/appp>
